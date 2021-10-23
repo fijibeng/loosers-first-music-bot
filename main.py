@@ -12,4 +12,4 @@ for i in range(len(cogs)):
 
 
 client.run
-("Njk0ODUzMzUzNjQ1MTQ2MjEz.XoRqnQ.e4D85JGZu84fw8geG0sWiw_hQOA")
+("redacted")
